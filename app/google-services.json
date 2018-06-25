@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "1035008712279",
+    "firebase_url": "https://prospecfit-8437b.firebaseio.com",
+    "project_id": "prospecfit-8437b",
+    "storage_bucket": "prospecfit-8437b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035008712279:android:e7fe1d282c29749f",
+        "android_client_info": {
+          "package_name": "com.example.arob257.prospecfit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035008712279-sma6hrpej9uksslg07mho8vaugrajhn0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.arob257.prospecfit",
+            "certificate_hash": "57771597668c1d30841721e7151f6b3b5e315435"
+          }
+        },
+        {
+          "client_id": "1035008712279-gl5o10tge16stuh7s7mttciinq7oils4.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1035008712279-gl5o10tge16stuh7s7mttciinq7oils4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfojHJaT9hDztGPUx8UKT66BidQeJb5VM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035008712279-gl5o10tge16stuh7s7mttciinq7oils4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
